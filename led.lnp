@@ -1,0 +1,4 @@
+"C:\Users\王士溥\Desktop\STARTUP.obj",
+"C:\Users\王士溥\Desktop\led.obj" 
+TO "C:\Users\王士溥\Desktop\led" 
+PRINT(".\led.m51") RAMSIZE(256) 

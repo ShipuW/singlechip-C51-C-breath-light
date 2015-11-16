@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+G:\dianzisheji\led.uvproj
+Project File Date:  11/09/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling led.c...
+linking...
+Program Size: data=39.0 xdata=0 code=2477
+creating hex file from "C:\Users\王士溥\Desktop\led"...
+"C:\Users\王士溥\Desktop\led" - 0 Error(s), 0 Warning(s).
